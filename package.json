@@ -1,0 +1,14 @@
+{
+  "name": "codemirror-addon-search-korean",
+  "version": "0.0.1",
+  "description": "Codemirror의 search addon 한글버전",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codemirror"
+  ],
+  "author": "Joo <joo@joostory.net>",
+  "license": "MIT"
+}
