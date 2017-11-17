@@ -10,5 +10,8 @@
     "codemirror"
   ],
   "author": "Joo <joo@joostory.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "codemirror": ">= 5"
+  }
 }
