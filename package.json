@@ -1,6 +1,6 @@
 {
   "name": "codemirror-addon-search-korean",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Codemirror의 search addon 한글버전",
   "main": "index.js",
   "scripts": {
